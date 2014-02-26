@@ -7,7 +7,7 @@ dependency "ruby"
 dependency "rubygems"
 dependency "bundler"
 
-source :git => "git://github.com/flpjck/flapjack.git"
+source :git => "git@git.yelpcorp.com/mirrors/flpjck/flapjack"
 
 relative_path "flapjack"
 
